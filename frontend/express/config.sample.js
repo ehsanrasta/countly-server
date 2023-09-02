@@ -74,7 +74,7 @@ var countlyConfig = {
         host: "localhost",
         use_intercom: true,
         secure_cookies: false,
-        track: "all",
+        track: "none",
         theme: "",
         session_secret: "countlyss",
         session_name: "connect.sid"
